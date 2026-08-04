@@ -93,8 +93,26 @@
 ### 💭 Dev Quote
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Kefilwe+Kalaloka!;BSc+Computing+with+Finance+Student;Aspiring+Software+Engineer;Java+%7C+Python+%7C+SQL;Building+One+Project+at+a+Time+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1500&color=58A6FF&center=true&vCenter=true&width=1000&lines=💡+Linus+Torvalds+created+Linux%2C+powering+millions+of+servers+worldwide.;🐧+He+also+created+Git%2C+the+version+control+system+developers+use+every+day.;🚀+Build+something+that+outlives+you." alt="Typing SVG" />
 </p>
 
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1500&color=F75C7E&center=true&vCenter=true&width=1000&lines=⚓+Grace+Hopper+pioneered+compiler+technology.;💻+Her+work+helped+make+programming+more+accessible.;✨+The+most+dangerous+phrase%3A+'We've+always+done+it+this+way.'" alt="Typing SVG" />
+</p>
+
+
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1500&color=00C853&center=true&vCenter=true&width=1000&lines=⚙️+Dennis+Ritchie+created+the+C+programming+language.;🌍+C+influenced+Java%2C+C%2B%2B%2C+C%23%2C+JavaScript+and+many+others.;📖+Great+software+begins+with+strong+fundamentals." alt="Typing SVG" />
+</p>
+
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1500&color=9D4EDD&center=true&vCenter=true&width=1000&lines=👩‍💻+Ada+Lovelace+wrote+the+first+published+algorithm+for+a+machine.;🌟+She+envisioned+computers+creating+more+than+just+calculations.;🚀+Innovation+starts+with+imagination." alt="Typing SVG" />
+</p>
 ---
 <p align="center"><i>⭐️ From <a href="https://github.com/Codepixie24">Codepixie24</a></i></p># Codepixie24-

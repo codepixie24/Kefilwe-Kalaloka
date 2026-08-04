@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Codepixie24">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=db61a2&fontSize=54&height=90&width=666&text=Hello!%20I'm%20Kefilwe" alt="Hello! I&#39;m Kefilwe" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=db61a2&fontSize=54&height=90&width=666&text=Hello!%20I'm%20KefilweKalaloka" alt="Hello! I&#39;m KefilweKalaloka" />
   </a>
 </p>
 
@@ -9,8 +9,6 @@
 </p>
 
 ### 🚀 About Me
-
-👋 Hi, I'm Kefilwe Kalaloka
 
 🎓 BSc Computing with Finance student at the University of Botswana
 

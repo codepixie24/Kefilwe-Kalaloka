@@ -14,6 +14,11 @@
 
 💻 I'm passionate about building software that solves real-world problems, especially in finance and technology.
 
+
+
+
+
+
 🔭 &nbsp;I'm currently working on **
 
 * 📚 Strengthening my Java programming and Object-Oriented Programming (OOP) skills through university coursework.
@@ -23,6 +28,12 @@
 * 🧩 Practicing data structures and algorithms to become a better problem solver.
 * 🎯 Preparing for opportunities in software engineering and fintech.
 **  
+
+
+
+
+
+
 💬 &nbsp;Ask me about **💻 Software Engineering
 📱 Mobile App Development
 🌐 Web Development
@@ -32,6 +43,13 @@
 ☁️ Cloud Computing
 🔐 Cybersecurity
 🎮 Game Development**  
+
+
+
+
+
+
+
 ⚡ &nbsp;Fun fact: **
 
 * 🌙 I enjoy turning late-night study sessions into coding sessions.
@@ -57,10 +75,13 @@
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook" />
 
 ### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Codepixie24&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Codepixie24&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=techwithgen&show_icons=true&theme=tokyonight&title_color=db61a2&icon_color=db61a2&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=techwithgen&layout=compact&theme=tokyonight&title_color=db61a2&icon_color=db61a2&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+  <img src="https://streak-stats.demolab.com?user=Codepixie24&theme=tokyonight&hide_border=true" />
 </p>
 
 ### 📈 Contribution Graph

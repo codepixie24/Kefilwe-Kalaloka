@@ -93,7 +93,7 @@
 ### 💭 Dev Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Kefilwe+Kalaloka!;BSc+Computing+with+Finance+Student;Aspiring+Software+Engineer;Java+%7C+Python+%7C+SQL;Building+One+Project+at+a+Time+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---

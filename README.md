@@ -19,7 +19,7 @@
 
 
 
-🔭 &nbsp;I'm currently working on **
+🔭 &nbsp;'I'm currently working on'
 
 * 📚 Strengthening my Java programming and Object-Oriented Programming (OOP) skills through university coursework.
 * 💾 Learning SQL and NoSQL databases by building hands-on practice projects.
@@ -34,7 +34,8 @@
 
 
 
-💬 &nbsp;Ask me about **💻 Software Engineering
+💬 &nbsp;'Ask me about'
+💻 Software Engineering
 📱 Mobile App Development
 🌐 Web Development
 🤖 Artificial Intelligence / Machine Learning
@@ -50,7 +51,7 @@
 
 
 
-⚡ &nbsp;Fun fact: **
+⚡ &nbsp;'Fun fact:'
 
 * 🌙 I enjoy turning late-night study sessions into coding sessions.
 * 📚 I believe every project—even a small one—is a chance to learn something new.
@@ -85,9 +86,8 @@
 </p>
 
 ### 📈 Contribution Graph
-
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=techwithgen&bg_color=00000000&color=db61a2&line=db61a2&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Codepixie24&layout&theme=github-dark&hide_border=true" alt="Kefilwe Kalaloka's Contribution Graph" />
 </p>
 
 ### 💭 Dev Quote

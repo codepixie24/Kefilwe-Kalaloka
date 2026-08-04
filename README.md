@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/techwithgen">
+  <a href="https://github.com/Codepixie24">
     <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=db61a2&fontSize=54&height=90&width=666&text=Hello!%20I'm%20Genesis" alt="Hello! I&#39;m Genesis" />
   </a>
 </p>
@@ -10,11 +10,38 @@
 
 ### 🚀 About Me
 
-software developer who loves coding and coffee
+👋 Hi, I'm Kefilwe Kalaloka
 
-🔭 &nbsp;I'm currently working on **an application**  
-💬 &nbsp;Ask me about **anything you want!**  
-⚡ &nbsp;Fun fact: **I code at the beach**
+🎓 BSc Computing with Finance student at the University of Botswana
+
+💻 I'm passionate about building software that solves real-world problems, especially in finance and technology.
+
+🔭 &nbsp;I'm currently working on **
+
+* 📚 Strengthening my Java programming and Object-Oriented Programming (OOP) skills through university coursework.
+* 💾 Learning SQL and NoSQL databases by building hands-on practice projects.
+* 🐍 Improving my Python skills through data analysis and automation projects.
+* 🌱 Growing my GitHub portfolio by documenting my learning journey and sharing projects.
+* 🧩 Practicing data structures and algorithms to become a better problem solver.
+* 🎯 Preparing for opportunities in software engineering and fintech.
+**  
+💬 &nbsp;Ask me about **💻 Software Engineering
+📱 Mobile App Development
+🌐 Web Development
+🤖 Artificial Intelligence / Machine Learning
+📊 Data Science & Analytics
+💰 FinTech
+☁️ Cloud Computing
+🔐 Cybersecurity
+🎮 Game Development**  
+⚡ &nbsp;Fun fact: **
+
+* 🌙 I enjoy turning late-night study sessions into coding sessions.
+* 📚 I believe every project—even a small one—is a chance to learn something new.
+* ☕ I don't drink coffee, but I'm still fueled by curiosity and determination.
+* 💡 I love learning by building and documenting my journey on GitHub.
+* 🎯 My goal isn't just to write code—it's to build solutions that make a real impact.
+**
 
 ### 🛠️ Tech Stack
 
@@ -52,4 +79,4 @@ software developer who loves coding and coffee
 </p>
 
 ---
-<p align="center"><i>⭐️ From <a href="https://github.com/techwithgen">techwithgen</a></i></p># Codepixie24-
+<p align="center"><i>⭐️ From <a href="https://github.com/Codepixie24">Codepixie24</a></i></p># Codepixie24-

@@ -96,21 +96,20 @@
 | **Noise & Hardware** | Decoherence, error mitigation, error correction basics, running on real IBM Quantum devices |
 | **Quantum Finance** | Quantum amplitude estimation, option pricing vs classical Monte Carlo, portfolio optimisation |
 
----
 
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Codepixie24&theme=github-dark&hide_border=true" alt="Kefilwe Kalaloka's Contribution Graph" />
+  <img src="https://ghchart.rshah.org/a371f7/Codepixie24" alt="Kefilwe Kalaloka's GitHub contribution chart" width="90%" />
 </p>
-
----
-
-## 💭 Dev Quote
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1500&color=58A6FF&center=true&vCenter=true&width=1000&lines=💡+Linus+Torvalds+created+Linux%2C+powering+millions+of+servers+worldwide.;🐧+He+also+created+Git%2C+the+version+control+system+developers+use+every+day.;🚀+Build+something+that+outlives+you." alt="Dev quote" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Codepixie24&bg_color=0d1117&color=a371f7&line=db61a2&point=ffffff&area=true&hide_border=true" alt="Contribution activity graph" />
 </p>
+---
+## 💭 Dev Quote
+
+> 🚀 *Build something that outlives you.*
 
 ---
 
